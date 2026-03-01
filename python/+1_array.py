@@ -1,5 +1,6 @@
 # 5514e5b77e6b2f38e0000ca9
 
+
 def up_array(arr):
     if not arr:
         return None
@@ -8,7 +9,7 @@ def up_array(arr):
     for digit in arr:
         if digit < 0 or digit > 9:
             return None
-        
+
         num = num * 10 + digit
 
     num += 1

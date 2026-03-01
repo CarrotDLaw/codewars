@@ -1,5 +1,6 @@
 # 52fba2a9adcd10b34300094c
 
+
 def transpose(matrix):
     rows = len(matrix)
     cols = len(matrix[0])

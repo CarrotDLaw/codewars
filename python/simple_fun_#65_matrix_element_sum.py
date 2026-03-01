@@ -1,5 +1,6 @@
 # 5893eb36779ce5faab0000da
 
+
 def matrix_elements_sum(matrix):
     rows = len(matrix)
     cols = len(matrix[0])
@@ -9,7 +10,7 @@ def matrix_elements_sum(matrix):
         for i in range(rows):
             if matrix[i][j] == 0:
                 break
-            
+
             total_price += matrix[i][j]
 
     return total_price

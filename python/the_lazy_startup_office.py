@@ -1,5 +1,6 @@
 # 578fdcfc75ffd1112c0001a1
 
+
 def bin_rota(arr):
     rows = len(arr)
     cols = len(arr[0])

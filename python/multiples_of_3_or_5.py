@@ -1,5 +1,6 @@
 # 5648b12ce68d9daa6b000099
 
+
 def solution(number):
     if number <= 0:
         return 0

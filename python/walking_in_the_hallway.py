@@ -1,5 +1,6 @@
 # 6368426ec94f16a1e7e137fc
 
+
 def contact(hallway):
     min_d = 10e12
     last_right_arrow = -1

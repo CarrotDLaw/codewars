@@ -1,5 +1,6 @@
 # 64c743cb0a2a00002856ff73
 
+
 def switch_gravity(lst):
     rows = len(lst)
     cols = len(lst[0])
